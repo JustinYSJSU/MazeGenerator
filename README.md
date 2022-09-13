@@ -13,3 +13,5 @@ Java
 - Make sure you have Java installed on your computer 
   - Windows: Open the command prompt and type ``java -version``
   - Mac/Linux: Open the terminal and type ``java -version``
+
+- Navigate to the home page of this repository and click the "CODE" button (green) and select the download .zip option
