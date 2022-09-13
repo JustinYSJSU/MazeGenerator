@@ -11,7 +11,7 @@ This is the my MazeGenerator Project from CS146 @ SJSU. This project creates a p
 The goal of this project was to implement BFS and DFS in a real project example. 
 
 ## Technologies 
-Java 
+- Java (Ver 15 or higher)
 
 ## How to run 
 - Make sure you have Java installed on your computer 
