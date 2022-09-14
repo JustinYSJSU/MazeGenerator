@@ -30,7 +30,7 @@ public class MainTester
 		System.out.println("=================================================================");
 		
 		System.out.println("***SIZE: 5***");
-        System.out.println("BFS SOLUTION");
+                System.out.println("BFS SOLUTION");
 		
         
 		b.bfsSolution(5);
