@@ -90,7 +90,6 @@ public class DFS_MazeSolver
 				System.out.print("(" + c2.getX() + "," + c2.getY() + ")" + " ");
 			}
 			System.out.println();
-			System.out.println("Cells Visited: " + this.visitedCells);
 			
 			return; //stops the program
 		}
