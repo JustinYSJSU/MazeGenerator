@@ -87,7 +87,6 @@ public class BFS_MazeSolver
 					System.out.print("(" + c.getX() + "," + c.getY() + ")" + " ");
 				}
 				System.out.println();
-				System.out.println("Cells Visited: " + this.visitedCells); //visited cells 
 				break;
 			}
 					
